@@ -1,5 +1,5 @@
 //// Data Structure Assignment
-//// Group 7 - Vibes
+//// Wan Mohammed Adam
 //// 
 //// Venue ID (0. Sunway Pyramid | 1.UoWMKDU | 2.Family Mart)
 //// Risk Status (1.Low Risk | 2.Infected | 3. Close Contact)
